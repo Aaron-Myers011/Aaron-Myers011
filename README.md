@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Aaron-Myers011/post-install-config)
  
 - <b>Raspberry Pi: Pi Hole installiation</b>
-  - [Pi Hole: Installation and Configure](https://github.com/Aaron-Myers011/osticket-prereq)
+  - [Pi Hole: Installation and Configure](https://github.com/Aaron-Myers011/Pi-Hole)
 
 
 <h2>🤳Connect with me:</h2>
